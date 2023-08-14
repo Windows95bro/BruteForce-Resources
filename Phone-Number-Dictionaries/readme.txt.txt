@@ -1,1 +1,0 @@
-Collection of complete phone number dictionaries by state.
